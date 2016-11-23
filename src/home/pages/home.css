@@ -1,0 +1,7 @@
+.foo {
+  display: flex;
+  transform: translate(100px) rotate(20deg);
+  transform-origin: 0 0;
+  color: #fff;
+  background: #c00;
+}
